@@ -40,7 +40,7 @@ Reality Capture е напреден софтвер за фотограметри
 
  ![Gif Animation of Point Cloud From Reality Capture]()
 
- # ![Link To View 3D Model]()
+ # ![Link To View 3D Model (wip)]()
 
 **Автори:**
 - Berat Ahmetaj (216130)
