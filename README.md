@@ -1,3 +1,6 @@
+# Project in development, updated weekly
+
+
 ![fcse_logo](https://github.com/BeratAhmetaj/Museudonia/blob/main/Gif%20Animations/Logo_FINKI_UKIM_EN/Logo_FINKI_UKIM_EN_00000.png)
 
 **Предмет:** Дигитизација
@@ -37,7 +40,7 @@ Reality Capture е напреден софтвер за фотограметри
 
  ![Gif Animation of Point Cloud From Reality Capture]()
 
- # ![Link To View 3D Model]()
+ # ![Link To View 3D Model (wip)]()
 
 **Автори:**
 - Berat Ahmetaj (216130)
