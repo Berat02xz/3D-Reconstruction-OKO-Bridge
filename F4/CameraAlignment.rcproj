@@ -1,0 +1,258 @@
+<RealityCapture version="1.3.1.117316" sceneRevision="6" sceneId="{562DF1B7-52F2-45F5-890E-7052B502C7C2}" lock="TovWNyJEiUyA;Bh;IBwbxw==">
+    <contributors>
+        <contributor name="BeratAhmetaj@epic" computerName="CITADEL" id="TovWNyJEiUyA;Bh;IBwbxw=="/>
+    </contributors>
+    <certificates>
+    </certificates>
+    <coordinates>
+        <projectCoordinates index="-1"/>
+    </coordinates>
+    <source>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171522.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171529.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171535.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171541.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171547.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171553.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171600.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171606.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171613.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171618.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171623.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\HQ Images\20240218_171629.jpg">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00000.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00001.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00002.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00003.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00004.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00005.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00006.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00007.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00008.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00009.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00010.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00011.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00012.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00013.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00014.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00015.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00016.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00017.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00018.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00019.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00020.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00021.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00022.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00023.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00024.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00025.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00026.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00027.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00028.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00029.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00030.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00031.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00032.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00033.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00034.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00035.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00036.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00037.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00038.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00039.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00040.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00041.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00042.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00043.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00044.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00045.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00046.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00047.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00048.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00049.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00050.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00051.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00052.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00053.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00054.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00055.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00056.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00057.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00058.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00059.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00060.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00061.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00062.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00063.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00064.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00065.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00066.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00067.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00068.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00069.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00070.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00071.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00072.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00073.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00074.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00075.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00076.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00077.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00078.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00079.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00080.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00081.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00082.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00083.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00084.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00085.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00086.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00087.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00088.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00089.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00090.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00091.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00092.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00093.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00094.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00095.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00096.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00097.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00098.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00099.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00100.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00101.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00102.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00103.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00104.png">
+        </input>
+        <input fileName="C:\Users\berat\OneDrive\Documents\Github\3D Reconstruction OKO Bridge\3D-Reconstruction-OKO-Bridge\F4\Raw Footage\Frames\20240218_171634\OKO_frames_00105.png">
+        </input>
+    </source>
+    <reconstructions selectedComponentId="{AA6221C5-CE7C-4E20-9D51-2CDA192BC920}">
+        <component name="Component 0" id="{AA6221C5-CE7C-4E20-9D51-2CDA192BC920}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="CameraAlignment\sfm0.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="CameraAlignment\colorNormalization0.dat" />
+            <metadata fileName="CameraAlignment\metadata0.dat"/>
+        </component>
+    </reconstructions>
+    <entities name="entities" fileName="CameraAlignment\entities0.dat"/>
+    <animation fileName="CameraAlignment\animation0.dat"/>
+    <controlpoints fileName="CameraAlignment\controlpoints0.dat"/>
+    <appConfig fileName="CameraAlignment\appConfig0.dat" />
+</RealityCapture>
