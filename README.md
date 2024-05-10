@@ -30,8 +30,6 @@
 
 **Детален План на конструкција:** [Документ](https://github.com/BeratAhmetaj/3D-Reconstruction-OKO-Bridge/blob/main/3%D0%94%20%D0%94%D0%B8%D0%B3%D0%B8%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%98%D0%B0%20%D0%BD%D0%B0%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D0%B0%D1%82%D0%B0%20%D0%B2%D0%BE%20_%D0%9C%D0%BE%D1%81%D1%82%D0%BE%D1%82%20%D0%BD%D0%B0%20%D1%86%D0%B8%D0%B2%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%D1%82%D0%B5_%D0%9E%D0%BA%D0%BE_%20%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5.pdf)
 
-Reality Capture е напреден софтвер за фотограметрија кој го користи принципот на компјутерска видеообработка за да ги претвори сликите во тродимензионален модел. Овој софтвер ви овозможува да ги процесирате сликите од смартфонот и да креирате 3D модел од нив. Reality Capture автоматски ги анализира сликите и креира 3D модел со висок детал. Потоа, можете да го користите на вашиот компјутер за да го подобрите и изгладите моделот.
-
 ![Слики](https://github.com/BeratAhmetaj/3D-Reconstruction-OKO-Bridge/blob/main/F2/Image_Pre_Production.png)
 
  # [View 3D Model](https://sketchfab.com/3d-models/the-bridge-of-civilizationseye-in-skopje-327f01aff6364228b6cad74b5353a225)
